@@ -362,4 +362,33 @@ MongoDB
 
 Ye MERN stack ka basic flow hai.
 ---------------------------------------------
-                                REST API 
+                                              REST API 
+REST API is a way to build APIs where resources are accessed using HTTP methods like GET, POST, PUT, DELETE and data is exchanged between client and server usually in JSON format.
+
+React
+ |
+ | API Request
+ ↓
+Express Routes
+ |
+ ↓
+Controller
+ |
+ ↓
+Model
+ |
+ ↓
+MongoDB
+ |
+ ↓
+JSON Response
+ |
+ ↓
+React UI
+
+
+GET -> server se data lena ho frontend pe
+POST => frontend se server pe data send karna ho
+PATCH => server pe data already hai aur uss data ko update karna hai
+DELETE => server pe data hai aur usse delete karna hai
+

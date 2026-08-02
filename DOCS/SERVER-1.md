@@ -1,3 +1,18 @@
+
+server ko create  - app.js
+starting the server - server.js
+
+
+
+
+
+
+
+
+
+
+
+-------------------------------------------------------------------------------
 npm init -y => node js app initiate 
 npm i express => express package install
 server.js => server code 
